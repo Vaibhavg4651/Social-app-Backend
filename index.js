@@ -24,7 +24,7 @@ cloudinary.config({
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://stunning-tiramisu-06eb8c.netlify.app/",
     credentials: true,
   })
 );
